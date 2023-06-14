@@ -1,0 +1,389 @@
+﻿Task ID,Created At,Completed At,Last Modified,Name,Section/Column,Assignee,Assignee Email,Start Date,Due Date,Tags,Notes,Projects,Parent Task,Blocked By (Dependencies),Blocking (Dependencies),End Date,Estimated Hours,Priority,Prod Priority,DEV Priority,Dev Start Date,Public Release Date,Task Focus,Scrum Stage,Story Number,Team,Type,Requested By
+1204630083778838,2023-05-18,,2023-06-12,Bulk User Account Creation,In Progress,Shameer S,shameer.sn@experionglobal.com,,2023-06-02,,"Name of Requestor:
+Jovanny Aguilar
+
+Email address:
+jaguilar@maphabit.com
+
+Name of Reporter:
+Jovanny Aguilar 
+
+Type of Request:
+Automation
+
+Please give your request a brief title:
+Bulk User Account Creation
+
+Device Type (please include screenshot of OS):
+2019 Macbook Pro: Ventura 13.3.1
+
+Details / Explanation:
+As we move towards working with large clients, we can expect to onboard about 50+ users at once. We do not have a way to bulk upload users and this would limit our productivity and efficiency. I have worked with Vinny to identify which fields are required and he has created an excel sheet layout that could be uploaded to run multiple account creations at once. I have provided the document below. At the moment, it would be most beneficial for this enhancement to work for the ""Individual"" user but we would like for it to eventually run for the ""Standalone Resident"" user as well. This is a critical automation and could save us a lot of time moving forward. 
+
+
+
+———————————————
+This task was submitted through Product Team Requests
+https://form.asana.com/?k=QRbBblyYNUhIYidyCYVtkA&d=1199994242146132",Sprint 45 (Onboarding),,,,,72,,,,,,,,,,Automation,Jovanny Aguilar
+1204764108430014,2023-06-06,,2023-06-13,R&D - Ability to draw on images,Dev Testing,Rahul Jeevan,rahul.jeevan@experionglobal.com,,,,R&D over drawing image using pen,Sprint 45 (Onboarding),,,,,36,,,,,,,,,,,
+1204467456064409,2023-04-25,,2023-06-13,Browse All maps: Optional level support map counts are incorrect for ADRD+ and IDD,Ready For QA,Shameer S,shameer.sn@experionglobal.com,,2023-06-23,"QA,Android,IOS","Browse All maps: Optional level support map counts are incorrect for ADRD+ and IDD
+ 
+Care Partner login >> Support view. TestCg/Test@123
+ 
+I had compared counts with level support map listing in the user view. 
+John test  - ADRD
+John test123 - ADRD+
+Neil Down - IDD
+
+CSV file is also attached for reference.",Sprint 45 (Onboarding),,,,,16,,,,,,,,,,,
+1204475477225701,2023-04-26,,2023-06-08,React Native upgrade to 0.71.8,Ready For QA,Rahul Jeevan,rahul.jeevan@experionglobal.com,,2023-06-02,,"Upgrading the app to latest version.
+Current React Native Version - 0.69.3
+Suggested React Native Version - 0.71.x",Sprint 45 (Onboarding),,,,,40,,,,,,,,,,,
+1204424399142911,2023-04-18,,2023-06-08,Optional visual/hidden timer option,Ready For QA,Shameer S,shameer.sn@experionglobal.com,,2023-06-09,,"Name of Requestor:
+Brandi/Jill
+
+Email address:
+Bhodapp@maphabit.com
+
+Name of Reporter:
+Self
+
+Type of Request:
+Enhancement
+
+Please give your request a brief title:
+Optional visual/hidden timer option
+
+Device Type (please include screenshot of OS):
+All
+
+Details / Explanation:
+This would be an enhancement to the current timer feature. The timer would work the same- user can set time, auto-start of timer, auto-advances/auto plays next slide when time expires BUT additional feature will allow user to decide to hide the visual timer from the slide screen. The reasoning for this is that the timer can be distracting and/or anxiety-provoking to the user but is still necessary to auto-advance the slide when time expires so the user does not get stuck on a step. 
+
+———————————————
+This task was submitted through Product Team Requests
+https://form.asana.com/?k=QRbBblyYNUhIYidyCYVtkA&d=1199994242146132",Sprint 45 (Onboarding),,,,2023-06-02,32,,,,,,,,,,Enhancement,Brandi/Jill
+1204614720250312,2023-05-16,,2023-06-06,Video start/pause buttons don’t disappear,Ready For QA,Rahul Jeevan,rahul.jeevan@experionglobal.com,,2023-06-02,,"Name of Requestor:
+Brandi Hodapp
+
+Email address:
+Bhodapp@maphabit.com
+
+Name of Reporter:
+Self
+
+Type of Request:
+Bug / Fix Needed
+
+Please give your request a brief title:
+Video start/pause buttons don’t disappear
+
+Device Type (please include screenshot of OS):
+all
+
+Details / Explanation:
+When starting a map, the first few videos that are in the map the start/pause/rewind screen does not disappear for the whole length of the video. As you advance through the map, the videos play correctly. I believe this is happening because there is some sort of loading or buffering time that is required when the map is first opened and the slides with videos are loading up for play. I have included a video and can explain more when we meet on this defect.
+
+———————————————
+This task was submitted through Product Team Requests
+https://form.asana.com/?k=QRbBblyYNUhIYidyCYVtkA&d=1199994242146132",Sprint 45 (Onboarding),,,,,,,,,,,,,,,Bug / Fix Needed,Brandi Hodapp
+1204304204233861,2023-03-30,,2023-06-08,Global Schedule Maps not populating in correct order in user accounts,Ready For QA,Barath P T,barath.pt@experionglobal.com,,2023-06-09,,"Name of Requestor:
+Jovanny Aguilar
+
+Email address:
+jaguilar@maphabit.com
+
+Name of Reporter:
+Jovanny Aguilar 
+
+Type of Request:
+Bug / Fix Needed
+
+Please give your request a brief title:
+Global Schedule Maps not populating in correct order in user accounts
+
+Device Type (please include screenshot of OS):
+iPhone 14 Pro Max: iOS 16.4
+
+Details / Explanation:
+Here is the video link to the issue: https://www.loom.com/share/d2a087e8d3594a7ab3cf1fb885294312
+
+We have created a global schedule titled as "" Dental Engagement - Avesis"" and the maps are not appearing in the required order based off what was created. There is a very specific order that these maps need to be uploaded and for some reason they are not populating correctly.  I provided a screen recording of what this looks like. This is happening across all devices so there must be something occurring in the backend. 
+
+———————————————
+This task was submitted through Product Team Requests
+https://form.asana.com/?k=QRbBblyYNUhIYidyCYVtkA&d=1199994242146132",Sprint 45 (Onboarding),,,,,,High,,,,,,,,,Bug / Fix Needed,Jovanny Aguilar
+1204456906842733,2023-04-23,,2023-05-24,Missing all analytics data from 04/12 - present,Ready For QA,Khalil White,khwhite@maphabit.com,,2023-05-02,,"Name of Requestor:
+Matt Golden
+
+Email address:
+mgolden@maphabit.com
+
+Name of Reporter:
+self
+
+Type of Request:
+Analytics
+
+Please give your request a brief title:
+Missing all analytics data from 04/12 - present
+
+Device Type (please include screenshot of OS):
+web
+
+Details / Explanation:
+Please look into this. 
+
+We will need to retroactively fill the BigQuery tables for missing history.
+
+———————————————
+This task was submitted through Product Team Requests
+https://form.asana.com/?k=QRbBblyYNUhIYidyCYVtkA&d=1199994242146132",Sprint 45 (Onboarding),,,,,,,Hold,,,,,,,,Analytics,Matt Golden
+1204616402444767,2023-05-16,,2023-06-13,PDF Output Formatting Does Not Match Map Step,Testing Approved,Vinicius Kern,vkern@fullstacklabs.co,,2023-06-09,,"Name of Requestor:
+Matt Golden
+
+Email address:
+mgolden@maphabit.com
+
+Name of Reporter:
+self
+
+Type of Request:
+Bug / Fix Needed
+
+Please give your request a brief title:
+PDF Output Formatting Does Not Match Map Step
+
+Device Type (please include screenshot of OS):
+All
+
+Details / Explanation:
+See example user ""Dawn"" in Prod 
+L: qacp01 
+P: Visualize123!
+
+Sample Map: Dawn Moldenhauer - west_allis Wellness Plan
+
+<See attached .DOC with examples>
+
+———————————————
+This task was submitted through Product Team Requests
+https://form.asana.com/?k=QRbBblyYNUhIYidyCYVtkA&d=1199994242146132",Sprint 45 (Onboarding),,,,2023-06-02,32,,,,,,,,,,Bug / Fix Needed,Matt Golden
+1204479350700442,2023-04-26,,2023-06-13,PDF email updates,Testing Approved,Vinicius Kern,vkern@fullstacklabs.co,,2023-06-09,,"PDF generated and sent to email address  - it arrives successfully, but the subject line is generic and image in email is old. Action for email is to download PDF, but it is very tiny link. Email format needs to be updated.
+
+Other related items to consider.
+
+    Print PDF is incorrect in 3dot menu. Print is not offered as option from screen. 'Export as PDF' would be more accutrate.
+    Title of section when you have entered 'Print PDF' needs to be accurate to what action is taking place
+    Comments entered / sent in email are not formatted in received email.
+",Sprint 45 (Onboarding),,,,,8,,,,,,,,,,,
+1204517178726855,2023-05-02,,2023-06-13,Can’t edit MH album photos,Testing Approved,Vinicius Kern,vkern@fullstacklabs.co,,2023-06-09,,"Name of Requestor:
+Brandi Hodapp
+
+Email address:
+bhodapp@maphabit.com
+
+Name of Reporter:
+Self
+
+Type of Request:
+Bug / Fix Needed
+
+Please give your request a brief title:
+Can’t edit MH album photos
+
+Device Type (please include screenshot of OS):
+Ipad
+
+Details / Explanation:
+When editing a map, I choose to upload a photo from the MH album but there are no editing options to crop, rotate or do anything with the photo. App also does not allow editing of photos while in the MH photo album. 
+
+The great thing about adding option to “save photo to MH album” is that users can save template map photos and edit them as they need OR use them in other maps BUT it won’t do them any good if they don’t have editing options.  I can attach videos if needed.
+
+———————————————
+This task was submitted through Product Team Requests
+https://form.asana.com/?k=QRbBblyYNUhIYidyCYVtkA&d=1199994242146132",Sprint 45 (Onboarding),,,,,32,,,,,,,,,,Bug / Fix Needed,Brandi Hodapp
+1204673706194872,2023-05-25,2023-06-08,2023-06-08,"POC: for new package or existing package, for cropping and update",,,,,,,,,Can’t edit MH album photos,,,,,,,,,,,,,,,
+1204612313140843,2023-05-16,2023-06-02,2023-06-09,Spark Map Usage Analytics,Released,Calvin Mammen,cmammen@maphabit.com,,2023-05-26,,"Name of Requestor:
+Brandi Hodapp
+
+Email address:
+bhodapp@maphabit.com
+
+Type of Request:
+Analytics
+
+Please give your request a brief title:
+Spark Map Usage Analytics
+
+Device Type (please include screenshot of OS):
+all
+
+Details / Explanation:
+Per convo with Matt, I would like to get whatever analytics I can on Engage Spark map usage: scheduled, opened, started, etc. so we can gauge user interactions with the program and plan for future upgrades or V2.
+
+———————————————
+This task was submitted through Product Team Requests
+https://form.asana.com/?k=QRbBblyYNUhIYidyCYVtkA&d=1199994242146132",Sprint 45 (Onboarding),,,,,,,,,,,,,,,Analytics,Brandi Hodapp
+1204586107590714,2023-05-11,2023-06-02,2023-06-09,Pull analytics from new map creation,Released,Calvin Mammen,cmammen@maphabit.com,,2023-05-26,,"Name of Requestor:
+Brandi Hodapp
+
+Email address:
+bhodapp@maphabit.com
+
+Name of Reporter:
+Jill/Brandi
+
+Type of Request:
+Analytics
+
+Please give your request a brief title:
+Pull analytics from new map creation
+
+Device Type (please include screenshot of OS):
+all
+
+Details / Explanation:
+Part 1: Is it possible to link analytics from what category the user chooses when building a custom map? That would help us to know what ""types/category"" of maps are most often being built. 
+
+Part 2: Build a custom analytic that pulls map title so that we can know specifically what types of maps people are building so we have a better idea of how the app is being used? This would have to monitored manually (I can manage that list) and will give us better data on how to customize the app.
+
+———————————————
+This task was submitted through Product Team Requests
+https://form.asana.com/?k=QRbBblyYNUhIYidyCYVtkA&d=1199994242146132",Sprint 45 (Onboarding),,,,,,,,,,,,,,,Analytics,Brandi Hodapp
+1204001214673602,2023-02-19,2023-06-02,2023-06-09,Header values aren't filtered based on report output,Released,Calvin Mammen,cmammen@maphabit.com,,2023-05-26,,"Name of Requestor:
+Matt Golden
+
+Email address:
+mgolden@maphabit.com
+
+Name of Reporter:
+Matt Golden
+
+Type of Request:
+Analytics
+
+Please give your request a brief title:
+Header values aren't filtered based on report output
+
+Device Type (please include screenshot of OS):
+Web
+
+Details / Explanation:
+LOW PRIORITY
+
+Header values do not filter based on the data that's filtered within the on-screen report.
+
+See attached example. 
+
+———————————————
+This task was submitted through Product Team Requests
+https://form.asana.com/?k=QRbBblyYNUhIYidyCYVtkA&d=1199994242146132",Sprint 45 (Onboarding),,,,,,,,,,,,,,,Analytics,Matt Golden
+1204564106701955,2023-05-09,2023-06-02,2023-06-09,Analytics Tracking Down Again,Released,Calvin Mammen,cmammen@maphabit.com,,2023-05-26,,"Name of Requestor:
+Matt Golden
+
+Email address:
+mgolden@maphabit.com
+
+Name of Reporter:
+self
+
+Type of Request:
+Analytics
+
+Please give your request a brief title:
+Analytics Tracking Down Again
+
+Device Type (please include screenshot of OS):
+Web
+
+Details / Explanation:
+Analytics stopped tracking (again).  Based on screenshot, it looks like this stopped working May 3rd early in a.m.
+
+Please perform root cause analysis. Is this due to table lock from user sign-up process or something different?  
+
+Please consider job a daily email to analytics@maphabit.com that simply reports current day record counts at 12p EST. If 0, this likely means the issue is current.
+
+———————————————
+This task was submitted through Product Team Requests
+https://form.asana.com/?k=QRbBblyYNUhIYidyCYVtkA&d=1199994242146132",Sprint 45 (Onboarding),,,,,,,,,,,,,,,Analytics,Matt Golden
+1204606074876568,2023-05-15,,2023-06-06,PubNub message text is blank for all message threads,Released,Jovanny Aguilar,jaguilar@maphabit.com,,2023-06-02,,"Name of Requestor:
+Matt Golden
+
+Email address:
+mgolden@maphabit.com
+
+Name of Reporter:
+self
+
+Type of Request:
+Bug / Fix Needed
+
+Please give your request a brief title:
+PubNub message text is blank for all message threads
+
+Device Type (please include screenshot of OS):
+app
+
+Details / Explanation:
+I noticed on Friday there is no text present on all message threads.   Was there a new security role introduced to make these invisible?  
+
+Are the records in the tables still there?
+
+———————————————
+This task was submitted through Product Team Requests
+https://form.asana.com/?k=QRbBblyYNUhIYidyCYVtkA&d=1199994242146132",Sprint 45 (Onboarding),,,,,,,,,,,,,,,Bug / Fix Needed,Matt Golden
+1204302421616100,2023-03-30,,2023-06-08,Library Maps not in correct number sequence,Released,,,,2023-06-09,,"Name of Requestor:
+Brandi Hodapp
+
+Email address:
+Bhodapp@maphabit.com
+
+Name of Reporter:
+Self
+
+Type of Request:
+Bug / Fix Needed
+
+Please give your request a brief title:
+Library Maps not in correct number sequence
+
+Device Type (please include screenshot of OS):
+All
+
+Details / Explanation:
+CRITICAL ERROR for AVESIS customers! With new update putting library maps in A->Z order, the exposure maps with numbers in the titles are out of sequence. Jumps from “1 of 27” to “11 of 27” instead of in number sequence. Should list out 1 of 27, 2 of 27, etc. Photos included 
+
+———————————————
+This task was submitted through Product Team Requests
+https://form.asana.com/?k=QRbBblyYNUhIYidyCYVtkA&d=1199994242146132",Sprint 45 (Onboarding),,,,,8,0 - Hold,,,,,,,,,Bug / Fix Needed,Brandi Hodapp
+1204673706946412,2023-05-26,,2023-06-06,Zendesk: User onboarding enhancement,Released,Shameer S,shameer.sn@experionglobal.com,,2023-06-02,,"Hello, Shameer.
+ 
+We have a request for some changes to the ticket for onboarding.
+    Change the ticket status to “Pending” instead of “Solved” – we need this step because we are currently manually transferring the generated Wellness Plan map to existing users;
+    Add a list of the map bundles assigned to the profile (example: “Relevant Maps: W1_Q2_A3, W2_Q3_A5” or the title of the bundle), with the automated note.
+    Add a tag to Zendesk ticket: “API_Processed” – we need this step to trigger Zendesk notifications and run macros on Zendesk.
+ 
+Please let me know if there are questions or followups needed. Thank you!
+ 
+Paolo Aguila | Operations
+832.867.5387
+
+Hi Shameer,
+ 
+For the second point, this is just a text addition to the private note:
+ 
+User onboarding completed
+ 
+·        Username: heritagelifestories+79@maphabit.com
+·        Password: #Xg9K)t?
+·        Name: Dawn Moldenhauer
+·        Email: heritagelifestories@maphabit.com
+·        Community name: QA Testing Environment
+·        Program Maps: W1_Q2_A3, W2_Q3_A5
+ 
+There are no add-ons needed to the app, this is just to document the map bundles that were added to their Assigned Maps section in Zendesk as a private note.
+ 
+Thank you, pls let me know if you need anything else.
+ 
+Paolo",Sprint 45 (Onboarding),,,,,32,,,,,,,,,,,
