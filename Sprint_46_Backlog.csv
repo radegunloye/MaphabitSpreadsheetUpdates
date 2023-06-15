@@ -1,0 +1,240 @@
+﻿Task ID,Created At,Completed At,Last Modified,Name,Section/Column,Assignee,Assignee Email,Start Date,Due Date,Tags,Notes,Projects,Parent Task,Blocked By (Dependencies),Blocking (Dependencies),Estimated time,Development Status,Sprint Assigned,MapHabit Team,Estimated Impact,Platforms,Issue Description,Solution Proposal,Optional,Other Info,Customer Type,Portfolio,DevPriority,Reporting As,Version,Estimated Hours,Priority,Type,Requested By,Customer,Client/Grant Name,Sprint Themes
+1203941523492804,2023-02-09,,2023-06-15,Ability to change font size and Bold in text box,Sprint Inbox,Shameer S,shameer.sn@experionglobal.com,,2023-03-10,,"Name:
+Brittany Montgomery
+
+Email address:
+bmontgomery@maphabit.com
+
+Customer Name:
+Dyad #22
+
+Title / Main Topic:
+Text size
+
+Product Feedback:
+Requested the ability to increase size font size in description box
+
+Type:
+Enhancement
+
+———————————————
+This task was submitted through Customer Feedback
+https://form.asana.com/?k=Njuognh338HGvOvdDrIF0w&d=1199994242146132",Sprint 46 Backlog,,,,,Team Review Completed,Sprint 46 Backlog,,,,,,,,,,,"UI/UX, Accessibility",,,2,Enhancement,Brittany Montgomery,Dyad #22,,
+1204830593566259,2023-06-15,,2023-06-15,R&D: Support for changing font size in description,,,,,,,,,Ability to change font size and Bold in text box,,,16:00,,,,,,,,,,,,,,,,,,,,,
+1204727986273894,2023-05-31,,2023-06-15,Make 'Programs/Assigned Maps' available to the Caregiver Role (and Family Role),Sprint Inbox,Paolo Aguila,paguila@maphabit.com,,2023-06-05,,"Submitter:
+Paolo Aguila
+
+Submitter's Email Address:
+paguila@maphabit.com
+
+MapHabit Team:
+Product: External Clients
+
+Issue Title:
+Make 'Assigned Maps' available to the Caregiver Role (and Family Role)
+
+Reporting As:
+Enhancement
+Accessibility
+
+Core Issue Description:
+Copy the same feature for Individual Role and Stand Alone Resident Role where Assigned Maps can be accessed from the Maps Tab, so that Caregiver role can receive the map bundles under ""Assigned Maps"".
+
+Platform:
+All Apps
+
+Estimated End User Impact:
+Client/Community Impact (more than 100)
+
+Version:
+Web
+
+Proposed Solution:
+Copy the same feature from the Individual and Stand-Alone Role
+
+Who else can assist or understand this submission in your team?:
+Matt Golden
+
+Client/Grant Name:
+MH Internal Request/Other
+
+Business Segment:
+Not Sure
+
+———————————————
+This task was submitted through MH Operations Request Form
+https://form.asana.com/?k=97GftjwXVN_GgBkez_NGvw&d=1199994242146132",Sprint 46 Backlog,,,,,Team Review Completed,Sprint 46 Backlog,Product: External Clients,Client/Community Impact (more than 100),All Apps,"Copy the same feature for Individual Role and Stand Alone Resident Role where Assigned Maps can be accessed from the Maps Tab, so that Caregiver role can receive the map bundles under ""Assigned Maps"".",Copy the same feature from the Individual and Stand-Alone Role,,Matt Golden,,Not Sure,,"Enhancement, Accessibility",Web,,,,,,MH Internal Request/Other,Automation
+1204746854692023,2023-06-02,2023-06-12,2023-06-12,Assign Sprint Number,,Khalil White,khwhite@maphabit.com,,2023-06-05,,,,Make 'Programs/Assigned Maps' available to the Caregiver Role (and Family Role),,,,,,,,,,,,,,,,,,,,,,,,
+1204830593566261,2023-06-15,,2023-06-15,Web APP: Update create/Edit care partner to select GCs,,,,,,,,,Make 'Programs/Assigned Maps' available to the Caregiver Role (and Family Role),,,32:00,,,,,,,,,,,,,,,,,,,,,
+1204830593566262,2023-06-15,,2023-06-15,API: support GC on edit/create,,,,,,,,,Make 'Programs/Assigned Maps' available to the Caregiver Role (and Family Role),,,24:00,,,,,,,,,,,,,,,,,,,,,
+1204830593566263,2023-06-15,,2023-06-15,API: Process GC maps and schedules for care partners,,,,,,,,,Make 'Programs/Assigned Maps' available to the Caregiver Role (and Family Role),,,48:00,,,,,,,,,,,,,,,,,,,,,
+1204830593566264,2023-06-15,,2023-06-15,Mobile App: Programs apps listing  and setup,,,,,,,,,Make 'Programs/Assigned Maps' available to the Caregiver Role (and Family Role),,,24:00,,,,,,,,,,,,,,,,,,,,,
+1204830593566265,2023-06-15,,2023-06-15,API: Mobile app listing support,,,,,,,,,Make 'Programs/Assigned Maps' available to the Caregiver Role (and Family Role),,,24:00,,,,,,,,,,,,,,,,,,,,,
+1204437497176728,2023-04-19,,2023-06-14,Open VPN: Staging admin account password reset and restoring,Sprint Inbox,Shameer S,shameer.sn@experionglobal.com,,2023-06-29,,,Sprint 46 Backlog,,,,32:00,Team Review Completed,Sprint 46,,,,,,,,,,,Enhancement,,32,Low,,,,,
+1204396169779322,2023-04-14,,2023-06-15,Multi Category To Show Correctly in Analytics Dashboard,Sprint Inbox,Shameer S,shameer.sn@experionglobal.com,,2023-06-29,,,Sprint 46 Backlog,,,,32:00,Team Review Completed,Sprint 46 Backlog,,,,,,,,,,,Enhancement,,,Medium,,,,,
+1204585779581202,2023-05-11,,2023-06-13,"Pull user analytics from ""my maps"" or unscheduled maps",Sprint Inbox,Calvin Mammen,cmammen@maphabit.com,,2023-06-29,,"Name of Requestor:
+Brandi Hodapp
+
+Email address:
+bhodapp@maphabit.com
+
+Name of Reporter:
+Brandi
+
+Type of Request:
+Analytics
+
+Please give your request a brief title:
+Pull user analytics from ""my maps"" or unscheduled maps
+
+Device Type (please include screenshot of OS):
+all
+
+Details / Explanation:
+We need to be pulling analytics from any map that a user opens/starts/interacts with in any way regardless of whether it is scheduled or not. Often times, a user is going to pull up a map in the moment and complete the map. If we really want to know if the user is engaging with the app, we need to have analytics from any time a map is opened or started. IF necessary, we could break out analytic to show if the map was opened/started/edited, etc. Not sure how specific the info needs to be.
+
+———————————————
+This task was submitted through Product Team Requests
+https://form.asana.com/?k=QRbBblyYNUhIYidyCYVtkA&d=1199994242146132",Sprint 46 Backlog,,,,,Team Review Completed,Sprint 46,,,,,,,,,,,Analytics,,,,Analytics,Brandi Hodapp,,,
+1204821691173701,2023-06-14,,2023-06-14,Experion QA - Sprint 46 Test Execution,Sprint Inbox,Barath P T,barath.pt@experionglobal.com,,,,,Sprint 46 Backlog,,,,50:00,Team Review Completed,Sprint 46,,,,,,,,,,,,,,,,,,,
+1204821691173705,2023-06-14,,2023-06-14,Experion QA - Sprint 45 Regression Testing,Sprint Inbox,Barath P T,barath.pt@experionglobal.com,,,,,Sprint 46 Backlog,,,,30:00,Team Review Completed,Sprint 46,,,,,,,,,,,,,,,,,,,
+1204481490602936,2023-04-26,,2023-06-15,Only show active categories with maps in them in drop-down (individual),DEV: Ready to be Assigned,Rahul Jeevan,rahul.jeevan@experionglobal.com,,2023-06-16,,"Name of Requestor:
+Camron Cutler
+
+Email address:
+ccutler@maphabit.com
+
+Name of Reporter:
+Jovanny
+
+Type of Request:
+Enhancement
+
+Please give your request a brief title:
+Only show active categories with maps in them in drop-down (individual)
+
+Device Type (please include screenshot of OS):
+All
+
+Details / Explanation:
+filtering shows all categories - whether they have map in them for an individual or not. Can we update filtering to only show / give option to filter by categories that have maps actually in them, or somehow indicate to user that a category does have maps in it?
+
+———————————————
+This task was submitted through Product Team Requests
+https://form.asana.com/?k=QRbBblyYNUhIYidyCYVtkA&d=1199994242146132",Sprint 46 Backlog,,,,24:00,DEV: Ready to Assign,Sprint 46,,,,,,,,,,,Enhancement,,24,,Enhancement,Camron Cutler,,,
+1204787583579404,2023-06-08,,2023-06-15,Optional Level of Support/Type filter for Standalone user role,DEV: Ready to be Assigned,Rahul Jeevan,rahul.jeevan@experionglobal.com,,2023-06-16,,"https://app.asana.com/0/1204392576574463/1204396169779330/f
+From Khalil:
+ Can we include ""Standalone"" user in having access to the Sort/Filter.....restricted Individuals do not need this feature",Sprint 46 Backlog,,,,20:00,DEV: Ready to Assign,Sprint 46,,,,,,,,,,,Enhancement,,,,,,,,
+1204787616932946,2023-06-08,,2023-06-15,Remove media autoplay timer and step autoplay timer while viewing from profile mpa,DEV: Ready to be Assigned,Rahul Jeevan,rahul.jeevan@experionglobal.com,,2023-06-16,,"Runs across most maps including profile maps...not ideal but nota deal breaker......team would like to request to remove the media autoplay from this particular system area......Timers as well do not need to be in the profile map either FYI
+
+https://app.asana.com/0/1204392576574463/1204480845723515/f",Sprint 46 Backlog,,,,16:00,DEV: Ready to Assign,Sprint 46 Backlog,,,,,,,,,,,"Enhancement, UI/UX",,,,,,,,
+1204830808891723,2023-06-15,,2023-06-15,View profile map - Profile switcher,,,,,,,,,Remove media autoplay timer and step autoplay timer while viewing from profile mpa,,,,,,,,,,,,,,,,,,,,,,,,
+1204830808891725,2023-06-15,,2023-06-15,View profile map - Edit profle screen,,,,,,,,,Remove media autoplay timer and step autoplay timer while viewing from profile mpa,,,,,,,,,,,,,,,,,,,,,,,,
+1204830808891726,2023-06-15,,2023-06-15,View profile map - Connections screen,,,,,,,,,Remove media autoplay timer and step autoplay timer while viewing from profile mpa,,,,,,,,,,,,,,,,,,,,,,,,
+1203537565042414,2022-12-12,,2023-06-15,Application version check,DEV: Ready to be Assigned,Rahul Jeevan,rahul.jeevan@experionglobal.com,,2023-06-16,,"Name of Requestor:
+Steve
+
+Email address:
+smcsweeney@maphabit.com
+
+Name of Reporter:
+Steve
+
+Type of Request:
+Enhancement
+
+Please give your request a brief title:
+Application version check
+
+Device Type (please include screenshot of OS):
+N/A
+
+Details / Explanation:
+Create a pop-up when the user accesses the application and they do not have the latest version of the application installed.
+
+Perhaps we could create a Postgres table maintaining a list of the latest version of the app and date of release.  If the user logs in and their version of the app does not match the latest release, a pop up notifying them of a new version could be displayed.
+
+———————————————
+This task was submitted through Product Team Requests
+https://form.asana.com/?k=QRbBblyYNUhIYidyCYVtkA&d=1199994242146132",Sprint 46 Backlog,,,,32:00,DEV: Ready to Assign,Sprint 46 Backlog,,,,,,,,,,,"Enhancement, Accessibility",,28,Low,,,,,
+1204774618550677,2023-06-07,,2023-06-15,Enhancement - Audio Conversion,"DEV: Assigned, In Progress",Rahul Jeevan,rahul.jeevan@experionglobal.com,,2023-06-17,,Add audio conversion for both platforms unless the uploaded audio format is mp4 or mp4.,Sprint 46 Backlog,,,,16:00,DEV: Working On It,Sprint 46,,,,,,,,,,,Enhancement,,16,,,,,,
+1203537565042427,2022-12-12,,2023-06-14,Add option to edit existing photo in map,"DEV: Assigned, In Progress",Vinicius Kern,vkern@fullstacklabs.co,,2023-06-19,,"Name of Requestor:
+Brandi Hodapp
+
+Email address:
+bhodapp@maphabit.com
+
+Name of Reporter:
+Brandi Hodapp
+
+Type of Request:
+Enhancement
+
+Please give your request a brief title:
+Add option to edit existing photo in map
+
+Device Type (please include screenshot of OS):
+Ipad
+
+Details / Explanation:
+If using an existing map as a template, there is not an option to “edit” a photo on a step. Only option to remove or replace. User may want to use the photo but edit in some way to better fit their needs, like zooming in on a part of the photo or cropping out a portion of the photo.
+
+———————————————
+This task was submitted through Product Team Requests
+https://form.asana.com/?k=QRbBblyYNUhIYidyCYVtkA&d=1199994242146132",Sprint 46 Backlog,,,,28:00,DEV: Working On It,Sprint 46,,,,,,,,,,,Enhancement,,32,,,,,,
+1204785528106011,2023-06-08,,2023-06-14,WebApp: Update the app usage banner message for care partner and stand alone user,"DEV: Assigned, In Progress",Vinicius Kern,vkern@fullstacklabs.co,,2023-06-16,,,Sprint 46 Backlog,,,,6:00,DEV: Working On It,Sprint 46,,,,,,,,,,,"UI/UX, Accessibility",,8,,,,,,
+1204725912733591,2023-05-31,,2023-06-14,AWS Secret Manager Integration,"DEV: Assigned, In Progress",Rahul Jeevan,rahul.jeevan@experionglobal.com,,2023-06-19,,,Sprint 46 Backlog,,,,8:00,DEV: Working On It,Sprint 46,,,,,,,,,,,Enhancement,,,,,,,,
+1204828309798594,2023-06-14,,2023-06-14,Add Zendesk API to Secrets Manager,,Calvin Mammen,cmammen@maphabit.com,,2023-06-21,,,,AWS Secret Manager Integration,,,,,,,,,,,,,,,,,,,,,,,,
+1204828309798595,2023-06-14,,2023-06-14,Add Gspread to Secrets Manager,,Calvin Mammen,cmammen@maphabit.com,,2023-06-21,,,,AWS Secret Manager Integration,,,,,,,,,,,,,,,,,,,,,,,,
+1204816607093205,2023-06-14,,2023-06-14,Edit code to pull it,,Calvin Mammen,cmammen@maphabit.com,,2023-06-21,,,,AWS Secret Manager Integration,,,,,,,,,,,,,,,,,,,,,,,,
+1204816607093209,2023-06-14,,2023-06-14,Give Khalil Overview,,Calvin Mammen,cmammen@maphabit.com,,2023-06-21,,,,AWS Secret Manager Integration,,,,,,,,,,,,,,,,,,,,,,,,
+1203136626544853,2022-10-10,,2023-06-14,Follow Up - Updates iOS Test Flight Accounts,"DEV: Assigned, In Progress",Rahul Jeevan,rahul.jeevan@experionglobal.com,,2023-01-20,,,Sprint 46 Backlog,,,,4:00,DEV: Working On It,Sprint 46,,,,,,,,,,,"Enhancement, Accessibility",,,0 - Hold,Automation,,,,
+1204821691173697,2023-06-14,,2023-06-15,Experion QA - Test Case Preparation and Meetings,DEV: In QA Review,Shameer S,shameer.sn@experionglobal.com,,2023-06-17,,,Sprint 46 Backlog,,,,26:00,DEV: Ready for QA Review,Sprint 46 Backlog,,,,,,,,,,,,,,,,,,,
+1204630703186696,2023-05-18,2023-05-24,2023-06-13,Testing,COMPLETE: Published,Rahul Jeevan,rahul.jeevan@experionglobal.com,,2023-05-25,,"Submitter:
+Khalil
+
+Submitter's Email Address:
+khwhite@maphabit.com
+
+MapHabit Team:
+Product: Internal
+
+Issue Title:
+Testing
+
+Reporting As:
+Defect
+QA Hold
+
+Core Issue Description:
+rest
+
+Platform:
+Web App
+
+Estimated End User Impact:
+10 to 30 users
+
+Version:
+1.4.8
+
+Proposed Solution:
+test
+
+Optional/Nice-To-Have Enhancements/Fix:
+test
+
+Dev Priority:
+3 - Moderate
+
+Customer:
+Internal
+
+Portfolio:
+Research
+
+———————————————
+This task was submitted through MH Research Request Form
+https://form.asana.com/?k=FECWNNDf9u8Vv3Eu3BrYFA&d=1199994242146132",Sprint 46 Backlog,,,,,PUBLISHED,Sprint 47,Product: Internal,10 to 30 users,Web App,rest,test,test,,Internal,Research,3 - Moderate,"Defect, QA Hold",1.4.8,,,,,,,
+1204631062846458,2023-05-18,2023-06-12,2023-06-12,Assign Sprint Number,,Khalil White,khwhite@maphabit.com,,2023-05-21,,,,Testing,,,,,,,,,,,,,,,,,,,,,,,,
+1204651320335524,2023-05-22,2023-05-24,2023-05-24,"Provide Estimated Hours, Resource Assigned, and Technical Requirements",,Shameer S,shameer.sn@experionglobal.com,,2023-05-24,,,,Testing,,,,,,,,,,,,,,,,,,,,,,,,
